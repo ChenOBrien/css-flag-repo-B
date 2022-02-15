@@ -1,0 +1,126 @@
+* {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(252, 252, 449, 0.185);
+}
+
+.German-flag {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+}
+
+.German-flag-top {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: black;
+}
+
+.German-flag-middle {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #dd0000;
+}
+
+.German-flag-bottom {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #ffce00;
+}
+
+.French-flag {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+}
+
+.French-flag-left {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #0055a4;
+}
+
+.French-flag-middle {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #ffffff;
+}
+
+.French-flag-right {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #ef4135;
+}
+
+.Hungarian-flag {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+}
+
+.Hungarian-flag-top {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #c8102e;
+}
+
+.Hungarian-flag-middle {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.Hungarian-flag-bottom {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #00843d;
+}
+
+.Irish-flag {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+}
+
+.Irish-flag-left {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #169b62;
+}
+
+.Irish-flag-middle {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #ffffff;
+}
+
+.Irish-flag-right {
+  height: 300px;
+  width: 200px;
+  margin: auto;
+  float: left;
+  background-color: #ff883e;
+}
+
+
+xxx
