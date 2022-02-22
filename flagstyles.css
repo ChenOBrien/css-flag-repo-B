@@ -1,6 +1,6 @@
 * {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   background-color: rgb(252, 252, 449, 0.185);
 }
 
@@ -9,6 +9,8 @@
   width: auto;
   height: 300px;
   width: 600px;
+  border-width: 600px;
+  border: 1px solid black;
 }
 
 .German-flag-top {
@@ -32,11 +34,43 @@
   background-color: #ffce00;
 }
 
+.Hungarian-flag {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+  border-width: 600px;
+  border: 1px solid black;
+}
+
+.Hungarian-flag-top {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #c8102e;
+}
+
+.Hungarian-flag-middle {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #ffffff;
+}
+
+.Hungarian-flag-bottom {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #00843d;
+}
+
 .French-flag {
   margin: auto;
   width: auto;
   height: 300px;
   width: 600px;
+  border-width: 600px;
+  border: 1px solid black;
 }
 
 .French-flag-left {
@@ -63,39 +97,13 @@
   background-color: #ef4135;
 }
 
-.Hungarian-flag {
-  margin: auto;
-  width: auto;
-  height: 300px;
-  width: 600px;
-}
-
-.Hungarian-flag-top {
-  height: 100px;
-  width: 600px;
-  margin: auto;
-  background-color: #c8102e;
-}
-
-.Hungarian-flag-middle {
-  height: 100px;
-  width: 600px;
-  margin: auto;
-  background-color: #ffffff;
-}
-
-.Hungarian-flag-bottom {
-  height: 100px;
-  width: 600px;
-  margin: auto;
-  background-color: #00843d;
-}
-
 .Irish-flag {
   margin: auto;
   width: auto;
   height: 300px;
   width: 600px;
+  border-width: 600px;
+  border: 1px solid black;
 }
 
 .Irish-flag-left {
@@ -122,5 +130,36 @@
   background-color: #ff883e;
 }
 
+.German-flag2 {
+  margin: auto;
+  width: auto;
+  height: 300px;
+  width: 600px;
+  border-width: 600px;
+  border: 1px solid black;
+}
 
-xxx
+#top {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: black;
+}
+
+#middle {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #dd0000;
+}
+
+#bottom {
+  height: 100px;
+  width: 600px;
+  margin: auto;
+  background-color: #ffce00;
+}
+
+.German-flag2:hover {
+  background-color: red;
+}
